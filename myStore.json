@@ -1,6 +1,6 @@
 {
-    "storeName":"我的小商店",
-    "messageBoard":"全部都是免费软件",
+    "storeName": "我的小商店",
+    "messageBoard": "全部都是免费软件",
     "version": "2023-06-29",
     "appItems": [
         {
@@ -11,6 +11,12 @@
                     "appVersion": "V3.10.23",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E7%94%B5%E8%A7%86%E5%AE%B6/%E7%94%B5%E8%A7%86%E5%AE%B6.jpg",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/DianShiJia-3.10.23.apk"
+                },
+                {
+                    "appName": "宝盒",
+                    "appVersion": "V1.1.1",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%AE%9D%E7%9B%92/baohe.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/BaoHe-1.1.1-release-Android4.1.apk"
                 }
             ]
         },
