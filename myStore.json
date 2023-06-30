@@ -137,11 +137,11 @@
             "itemName": "教程",
             "itemContents": [
                 {
-                    "appName": "还没写",
+                    "appName": "TVBox_教程",
                     "appVersion": "V1.0.0",
-                    "packageName": "",
-                    "postscript": "明天写",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/lyswhut/lx-music-mobile/master/doc/images/icon.png",
+                    "packageName": "单仓教程",
+                    "postscript": "单仓教程",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E7%99%BE%E5%AE%9D%E8%A2%8B/tvbox-tutorial.png",
                     "appDownloadUrl": ""
                 }
             ]
