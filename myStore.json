@@ -16,9 +16,17 @@
                 },
                 {
                     "appName": "宝盒",
+                    "appVersion": "V3.0.7",
+                    "packageName": "com.github.tvbox.osc.bh",
+                    "postscript": "兼容安卓5",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%AE%9D%E7%9B%92/baohe.png",
+                    "appDownloadUrl": "https://ghproxy.com/https: //github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/BaoHe_3.0.7.apk"
+                },
+                {
+                    "appName": "宝盒",
                     "appVersion": "V1.1.1",
                     "packageName": "com.github.tvbox.osc.bh",
-                    "postscript": "兼容低版本老设备",
+                    "postscript": "兼容安卓4",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%AE%9D%E7%9B%92/baohe.png",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/BaoHe-1.1.1-release-Android4.1.apk"
                 },
@@ -26,7 +34,7 @@
                     "appName": "小鸡模拟器TV版",
                     "appVersion": "V1.1.8",
                     "packageName": "com.xiaoji.tvbox",
-                    "postscript": "不能更新，更新不免费使用",
+                    "postscript": "不能更新，更新不免费",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E9%B8%A1%E6%A8%A1%E6%8B%9F%E5%99%A8/ic_launcher_tv.png",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/xiao_ji_mo_ni_qi_TV.apk"
                 },
