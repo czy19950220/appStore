@@ -1,22 +1,38 @@
 {
     "storeName": "我的小商店",
     "messageBoard": "全部都是免费软件",
-    "version": "更新于：2023-06-29",
+    "version": "2023-06-29",
     "appItems": [
         {
             "itemName": "电视应用",
             "itemContents": [
                 {
-                    "appName": "电视家",
+                    "appName": "电视家(绿色破解版)",
                     "appVersion": "V3.10.23",
+                    "packageName": "com.dsj.pj",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E7%94%B5%E8%A7%86%E5%AE%B6/%E7%94%B5%E8%A7%86%E5%AE%B6.jpg",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/DianShiJia-3.10.23.apk"
                 },
                 {
-                    "appName": "宝盒",
+                    "appName": "宝盒(兼容低版本)",
                     "appVersion": "V1.1.1",
+                    "packageName": "com.github.tvbox.osc.bh",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%AE%9D%E7%9B%92/baohe.png",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/BaoHe-1.1.1-release-Android4.1.apk"
+                },
+                {
+                    "appName": "小鸡模拟器TV版(勿更新)",
+                    "appVersion": "V1.1.8",
+                    "packageName": "com.xiaoji.tvbox",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E9%B8%A1%E6%A8%A1%E6%8B%9F%E5%99%A8/ic_launcher_tv.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/xiao_ji_mo_ni_qi_TV.apk"
+                },
+                {
+                    "appName": "小鸡模拟器手柄",
+                    "appVersion": "V1.1.8",
+                    "packageName": "com.xiaoji.tvbox",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E9%B8%A1%E6%A8%A1%E6%8B%9F%E5%99%A8/ic_launcher.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/xiao_ji_mo_ni_qi_shou_bing.apk"
                 }
             ]
         },
@@ -26,6 +42,7 @@
                 {
                     "appName": "电视家",
                     "appVersion": "V3.10.23",
+                    "packageName": "com.dsj.pj",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E7%94%B5%E8%A7%86%E5%AE%B6/%E7%94%B5%E8%A7%86%E5%AE%B6.jpg",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/DianShiJia-3.10.23.apk"
                 }
