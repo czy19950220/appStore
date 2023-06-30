@@ -17,7 +17,7 @@
                 {
                     "appName": "影视仓",
                     "appVersion": "V4.0.34",
-                    "packageName": "com.github.tvbox.osc.bh",
+                    "packageName": "com.mygithub0.tvbox0.osdX",
                     "postscript": "支持多仓",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%BD%B1%E8%A7%86%E4%BB%93/app_icon.png",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/YingShiCang-4.0.34.apk"
@@ -25,7 +25,7 @@
                 {
                     "appName": "影视仓V3",
                     "appVersion": "V3.0.32",
-                    "packageName": "com.github.tvbox.osc.bh",
+                    "packageName": "com.mygithub0.tvbox0.osdkitkat",
                     "postscript": "兼容安卓4",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%BD%B1%E8%A7%86%E4%BB%93/app_icon.png",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/YingShiCangV3-3.0.32.apk"
@@ -56,8 +56,8 @@
                 },
                 {
                     "appName": "小鸡模拟器手柄",
-                    "appVersion": "V1.1.8",
-                    "packageName": "com.xiaoji.tvbox",
+                    "appVersion": "V1.1.0",
+                    "packageName": "com.xiaoji.gamepad",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E9%B8%A1%E6%A8%A1%E6%8B%9F%E5%99%A8/ic_launcher.png",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/xiao_ji_mo_ni_qi_shou_bing.apk"
                 }
