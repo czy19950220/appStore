@@ -10,7 +10,7 @@
                     "appName": "电视家",
                     "appVersion": "V3.10.23",
                     "packageName": "com.dsj.pj",
-                    "postscript": "这是绿色破解版",
+                    "postscript": "绿色破解版",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E7%94%B5%E8%A7%86%E5%AE%B6/%E7%94%B5%E8%A7%86%E5%AE%B6.jpg",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/DianShiJia-3.10.23.apk"
                 },
@@ -47,6 +47,14 @@
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/BaoHe-1.1.1-release-Android4.1.apk"
                 },
                 {
+                    "appName": "可视TVMax",
+                    "appVersion": "V1.6.5",
+                    "packageName": "com.github.tvbox.keshimax",
+                    "postscript": "支持多仓",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%8F%AF%E8%A7%86TVMax/app_icon.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/TVMax_1.6.5.20230610.apk"
+                },
+                {
                     "appName": "小鸡模拟器TV版",
                     "appVersion": "V1.1.8",
                     "packageName": "com.xiaoji.tvbox",
@@ -60,6 +68,13 @@
                     "packageName": "com.xiaoji.gamepad",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E9%B8%A1%E6%A8%A1%E6%8B%9F%E5%99%A8/ic_launcher.png",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/xiao_ji_mo_ni_qi_shou_bing.apk"
+                },
+                {
+                    "appName": "调试助手",
+                    "appVersion": "V2.4.2",
+                    "packageName": "com.tiaoshizstv.tszs",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E8%B0%83%E8%AF%95%E5%8A%A9%E6%89%8B/nm.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/tiao_shi_zhu_shou_2.4.2.apk"
                 }
             ]
         },
