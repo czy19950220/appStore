@@ -132,6 +132,19 @@
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/ge_ci_shi_pei_4.1.0.V4.apk"
                 }
             ]
+        },
+        {
+            "itemName": "教程",
+            "itemContents": [
+                {
+                    "appName": "还没写",
+                    "appVersion": "V1.0.0",
+                    "packageName": "",
+                    "postscript": "明天写",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/lyswhut/lx-music-mobile/master/doc/images/icon.png",
+                    "appDownloadUrl": ""
+                }
+            ]
         }
     ]
 }
