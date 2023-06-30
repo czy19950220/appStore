@@ -82,6 +82,7 @@
                     "appName": "小鸡模拟器手柄",
                     "appVersion": "V1.1.0",
                     "packageName": "com.xiaoji.gamepad",
+                    "postscript": "模拟手柄，能用但是没手柄好使",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E9%B8%A1%E6%A8%A1%E6%8B%9F%E5%99%A8/ic_launcher.png",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/xiao_ji_mo_ni_qi_shou_bing.apk"
                 },
@@ -89,6 +90,7 @@
                     "appName": "调试助手",
                     "appVersion": "V2.4.2",
                     "packageName": "com.tiaoshizstv.tszs",
+                    "postscript": "",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E8%B0%83%E8%AF%95%E5%8A%A9%E6%89%8B/nm.png",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/tiao_shi_zhu_shou_2.4.2.apk"
                 },
@@ -96,6 +98,7 @@
                     "appName": "TVBox_takagen99",
                     "appVersion": "V1.0.20230608_0031",
                     "packageName": "com.github.tvbox.osc.tk",
+                    "postscript": "增加了去广告",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/TVBox/takagen99/vx.png",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/TVBox_takagen99_20230608-0023.apk"
                 },
@@ -103,6 +106,7 @@
                     "appName": "TVBox_takagen99",
                     "appVersion": "V20230601-1755",
                     "packageName": "com.github.tvbox.osc",
+                    "postscript": "增加了去广告",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/TVBox/%E4%BF%8A%E7%89%88/53.png",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/TVBox_Jun_Ban_20230601-1755.apk"
                 }
