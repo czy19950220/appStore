@@ -4,6 +4,7 @@
 配置很简单，一般看一下就会写。
 
 **APP的样子长这样：**
+
 ![未启动时](https://raw.githubusercontent.com/czy19950220/appStore/main/%E7%99%BE%E5%AE%9D%E8%A2%8B/1.png)
 
 **APP的主界面长这样：**
