@@ -116,11 +116,20 @@
             "itemName": "音乐",
             "itemContents": [
                 {
-                    "appName": "电视家",
-                    "appVersion": "V3.10.23",
-                    "packageName": "com.dsj.pj",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E7%94%B5%E8%A7%86%E5%AE%B6/%E7%94%B5%E8%A7%86%E5%AE%B6.jpg",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/DianShiJia-3.10.23.apk"
+                    "appName": "洛雪音乐",
+                    "appVersion": "V1.0.6",
+                    "packageName": "cn.toside.music.mobile",
+                    "postscript": "开源免费",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/lyswhut/lx-music-mobile/master/doc/images/icon.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/lyswhut/lx-music-mobile/releases/download/v1.0.6/lx-music-mobile-v1.0.6-universal.apk"
+                },
+                {
+                    "appName": "歌词适配",
+                    "appVersion": "4.1.0.V4",
+                    "packageName": "com.mylrc.mymusic",
+                    "postscript": "公众号:gcsp1999",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E6%AD%8C%E8%AF%8D%E9%80%82%E9%85%8D/ht.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/ge_ci_shi_pei_4.1.0.V4.apk"
                 }
             ]
         }
