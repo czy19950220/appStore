@@ -1,7 +1,7 @@
 {
-    "storeName": "我的小商店",
+    "storeName": "我的百宝袋",
     "messageBoard": "全部都是免费软件",
-    "version": "2023-06-29",
+    "version": "2023-06-30",
     "appItems": [
         {
             "itemName": "电视应用",
@@ -26,7 +26,7 @@
                     "appName": "小鸡模拟器TV版",
                     "appVersion": "V1.1.8",
                     "packageName": "com.xiaoji.tvbox",
-                    "postscript": "不能更新，更新不免费",
+                    "postscript": "不能更新，更新不免费使用",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E9%B8%A1%E6%A8%A1%E6%8B%9F%E5%99%A8/ic_launcher_tv.png",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/xiao_ji_mo_ni_qi_TV.apk"
                 },
