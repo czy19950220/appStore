@@ -7,6 +7,14 @@
             "itemName": "电视应用",
             "itemContents": [
                 {
+                    "appName": "秒看电视",
+                    "appVersion": "V7.5.2",
+                    "packageName": "com.qy.kktv",
+                    "postscript": "高清、免费",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E7%A7%92%E7%9C%8B%E7%94%B5%E8%A7%86/logo.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/MiaoKanDianShi-7.5.2.apk"
+                },
+                {
                     "appName": "电视家",
                     "appVersion": "V3.10.23",
                     "packageName": "com.dsj.pj",
