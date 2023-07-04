@@ -109,6 +109,14 @@
                     "postscript": "增加了去广告",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/TVBox/%E4%BF%8A%E7%89%88/53.png",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/TVBox_Jun_Ban_20230601-1755.apk"
+                },
+                {
+                    "appName": "FongMi",
+                    "appVersion": "2.0.1",
+                    "packageName": "com.fongmi.android.tv",
+                    "postscript": "20230704更新",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/TVBox/%E4%BF%8A%E7%89%88/53.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/FongMi/TV/releases/download/2.0.1/leanback-4.1.apk"
                 }
             ]
         },
