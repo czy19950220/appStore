@@ -115,7 +115,7 @@
                     "appVersion": "2.0.1",
                     "packageName": "com.fongmi.android.tv",
                     "postscript": "20230704更新",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/TVBox/%E4%BF%8A%E7%89%88/53.png",
+                    "appBG": "https://ghproxy.com/https://github.com/FongMi/TV/blob/release/app/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/FongMi/TV/releases/download/2.0.1/leanback-4.1.apk"
                 }
             ]
