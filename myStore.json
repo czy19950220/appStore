@@ -1,18 +1,18 @@
 {
     "storeName": "我的百宝袋",
-    "messageBoard": "全部都是免费软件",
-    "version": "2023-06-30",
+    "messageBoard": "本软件更新了，增加兼容低版设备本安装",
+    "version": "2023-07-05",
     "appItems": [
         {
             "itemName": "电视应用",
             "itemContents": [
                 {
                     "appName": "百宝袋",
-                    "appVersion": "V1.0.0",
+                    "appVersion": "V1.1.0",
                     "packageName": "com.github.tvbox.czyappstore",
                     "postscript": "本软件",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E7%99%BE%E5%AE%9D%E8%A2%8B/app_icon.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/bai_bao_dai.apk"
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/app-release.apk"
                 },
                 {
                     "appName": "秒看电视",
