@@ -151,6 +151,22 @@
                     "postscript": "单仓教程",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E7%99%BE%E5%AE%9D%E8%A2%8B/tvbox-tutorial.png",
                     "appDownloadUrl": ""
+                },
+                {
+                    "appName": "扫码获取源",
+                    "appVersion": "V1.0.0",
+                    "packageName": "扫码获取源",
+                    "postscript": "czy收集",
+                    "appBG": "https://ghproxy.com/https://github.com/czy19950220/appStore/blob/main/%E7%99%BE%E5%AE%9D%E8%A2%8B/yuan/cyuan.png",
+                    "appDownloadUrl": ""
+                },
+                {
+                    "appName": "扫码获取源2",
+                    "appVersion": "V1.0.0",
+                    "packageName": "扫码获取源2",
+                    "postscript": "lige收集",
+                    "appBG": "https://ghproxy.com/https://github.com/czy19950220/appStore/blob/main/%E7%99%BE%E5%AE%9D%E8%A2%8B/yuan/lige.png",
+                    "appDownloadUrl": ""
                 }
             ]
         }
