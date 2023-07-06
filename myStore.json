@@ -183,6 +183,14 @@
                     "postscript": "lige收集",
                     "appBG": "https://ghproxy.com/https://github.com/czy19950220/appStore/blob/main/%E7%99%BE%E5%AE%9D%E8%A2%8B/yuan/lige.png",
                     "appDownloadUrl": ""
+                },
+                {
+                    "appName": "分享本软件",
+                    "appVersion": "V1.0.0",
+                    "packageName": "扫码打开分享文章",
+                    "postscript": "czy编写",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E7%99%BE%E5%AE%9D%E8%A2%8B/bbd.png",
+                    "appDownloadUrl": ""
                 }
             ]
         }
