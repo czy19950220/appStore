@@ -32,6 +32,14 @@
                 },
                 {
                     "appName": "影视仓",
+                    "appVersion": "V5.0.2",
+                    "packageName": "com.mygithub0.tvbox0.osdX",
+                    "postscript": "数据库更新，安装后需重新配置",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%BD%B1%E8%A7%86%E4%BB%93/app_icon.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/YingShiCang_5.0.2.apk"
+                },
+                {
+                    "appName": "影视仓",
                     "appVersion": "V4.0.34",
                     "packageName": "com.mygithub0.tvbox0.osdX",
                     "postscript": "支持多仓",
