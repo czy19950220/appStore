@@ -146,6 +146,14 @@
                     "postscript": "公众号:gcsp1999",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E6%AD%8C%E8%AF%8D%E9%80%82%E9%85%8D/ht.png",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/ge_ci_shi_pei_4.1.0.V4.apk"
+                },
+                {
+                    "appName": "云听音乐",
+                    "appVersion": "1.0",
+                    "packageName": "com.cyl.musiccy.cm",
+                    "postscript": "多平台免费听音乐",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E4%BA%91%E5%90%AC%E9%9F%B3%E4%B9%90/icon.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/yun_ting_music_1.0.apk"
                 }
             ]
         },
