@@ -173,8 +173,8 @@
                 },
                 {
                     "appName": "酷我车机",
-                    "appVersion": "",
-                    "packageName": "fun.upup.musicfree",
+                    "appVersion": "5.0.0.7",
+                    "packageName": "cn.kuwo.kwmusiccas",
                     "postscript": "破解版酷我车机",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E9%85%B7%E6%88%91%E8%BD%A6%E6%9C%BA/app_logo.png",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/MusicFree.apk"
@@ -189,24 +189,24 @@
                 },
                 {
                     "appName": "咚咚听书",
-                    "appVersion": "2.3.7",
-                    "packageName": "com.github.eprendre.tingshu",
+                    "appVersion": "1.0.1",
+                    "packageName": "com.westtechgg.movie",
                     "postscript": "听书软件",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E5%92%9A%E5%92%9A%E5%90%AC%E4%B9%A6/ic_launcher.png",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/kuwo5.0.7.apk"
                 },
                 {
                     "appName": "鲨鱼听书",
-                    "appVersion": "2.3.7",
-                    "packageName": "com.github.eprendre.tingshu",
+                    "appVersion": "0.3.6",
+                    "packageName": "com.example.dodoting_native",
                     "postscript": "听书软件",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E9%B2%A8%E9%B1%BC%E5%90%AC%E4%B9%A6/launcher_icon.png",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/shayu.apk"
                 },
                 {
                     "appName": "柠檬听书",
-                    "appVersion": "2.3.7",
-                    "packageName": "com.github.eprendre.tingshu",
+                    "appVersion": "1.2",
+                    "packageName": "com.yinyue.tingshu",
                     "postscript": "听书软件",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E6%9F%A0%E6%AA%AC%E5%90%AC%E4%B9%A6/icon.png",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/ning_meng_1.2.apk"
@@ -263,6 +263,19 @@
                     "postscript": "czy编写",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E7%99%BE%E5%AE%9D%E8%A2%8B/bbd.png",
                     "appDownloadUrl": ""
+                }
+            ]
+        },
+        {
+            "itemName": "小说漫画",
+            "itemContents": [
+                {
+                    "appName": "阅读",
+                    "appVersion": "V3.23.062623",
+                    "packageName": "io.legado.app.release",
+                    "postscript": "小说漫画都可以看",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E7%99%BE%E5%AE%9D%E8%A2%8B/tvbox-tutorial.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/legado_app_3.23.062623.apk"
                 }
             ]
         }
