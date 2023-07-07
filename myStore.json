@@ -140,6 +140,14 @@
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/lyswhut/lx-music-mobile/releases/download/v1.0.6/lx-music-mobile-v1.0.6-universal.apk"
                 },
                 {
+                    "appName": "五音助手(用户名和密码都是：18888888888)",
+                    "appVersion": "V2.10.4",
+                    "packageName": "com.sixyin.wuyin_app",
+                    "postscript": "官网：https://sixyin.com/",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E4%BA%94%E9%9F%B3%E5%8A%A9%E6%89%8B/logo.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/wu_yin_v2.10.4.apk"
+                },
+                {
                     "appName": "歌词适配",
                     "appVersion": "4.1.0.V4",
                     "packageName": "com.mylrc.mymusic",
@@ -154,6 +162,22 @@
                     "postscript": "多平台免费听音乐",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E4%BA%91%E5%90%AC%E9%9F%B3%E4%B9%90/icon.png",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/yun_ting_music_1.0.apk"
+                },
+                {
+                    "appName": "MusicFree",
+                    "appVersion": "0.1.0-alpha.9",
+                    "packageName": "fun.upup.musicfree",
+                    "postscript": "多平台免费听音乐",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/maotoumao/MusicFree/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/MusicFree.apk"
+                },
+                {
+                    "appName": "我的听书",
+                    "appVersion": "2.3.7",
+                    "packageName": "com.github.eprendre.tingshu",
+                    "postscript": "听书软件",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E6%88%91%E7%9A%84%E5%90%AC%E4%B9%A6/pw.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/eprendre/tingshu/releases/download/v2.3.7/tingshu_v2.3.7.apk"
                 }
             ]
         },
@@ -182,6 +206,22 @@
                     "packageName": "扫码获取源2",
                     "postscript": "lige收集",
                     "appBG": "https://ghproxy.com/https://github.com/czy19950220/appStore/blob/main/%E7%99%BE%E5%AE%9D%E8%A2%8B/yuan/lige.png",
+                    "appDownloadUrl": ""
+                },
+                {
+                    "appName": "MusicFree配置教程",
+                    "appVersion": "V1.0.0",
+                    "packageName": "扫码打开文章",
+                    "postscript": "czy编写，直接照抄的官方文档",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/MusicFree/qrcode.png",
+                    "appDownloadUrl": ""
+                },
+                {
+                    "appName": "我的听书教程",
+                    "appVersion": "V1.0.0",
+                    "packageName": "扫码打开文章",
+                    "postscript": "czy编写，直接照抄的官方文档",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E6%88%91%E7%9A%84%E5%90%AC%E4%B9%A6/qrcode.png",
                     "appDownloadUrl": ""
                 },
                 {
