@@ -257,6 +257,14 @@
                     "appDownloadUrl": ""
                 },
                 {
+                    "appName": "阅读教程",
+                    "appVersion": "V1.0.0",
+                    "packageName": "请用浏览器扫码打开",
+                    "postscript": "浏览器打开导入即可",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/阅读/qrcode.png",
+                    "appDownloadUrl": ""
+                },
+                {
                     "appName": "分享本软件",
                     "appVersion": "V1.0.0",
                     "packageName": "扫码打开分享文章",
@@ -274,7 +282,7 @@
                     "appVersion": "V3.23.062623",
                     "packageName": "io.legado.app.release",
                     "postscript": "小说漫画都可以看",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E7%99%BE%E5%AE%9D%E8%A2%8B/tvbox-tutorial.png",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/阅读/38.png",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/legado_app_3.23.062623.apk"
                 }
             ]
