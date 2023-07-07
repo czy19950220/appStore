@@ -214,6 +214,27 @@
             ]
         },
         {
+            "itemName": "小说漫画",
+            "itemContents": [
+                {
+                    "appName": "阅读",
+                    "appVersion": "V3.23.062623",
+                    "packageName": "io.legado.app.release",
+                    "postscript": "小说漫画都可以看，可以自己导入源",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/阅读/38.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/legado_app_3.23.062623.apk"
+                },
+                {
+                    "appName": "锤子小说",
+                    "appVersion": "2.1.7",
+                    "packageName": "org.chuizixs.reader",
+                    "postscript": "免费小说，多源",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/锤子/cN.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/chui_zi.apk"
+                }
+            ]
+        },
+        {
             "itemName": "教程",
             "itemContents": [
                 {
@@ -257,7 +278,7 @@
                     "appDownloadUrl": ""
                 },
                 {
-                    "appName": "阅读教程",
+                    "appName": "阅读",
                     "appVersion": "V1.0.0",
                     "packageName": "请用浏览器扫码打开",
                     "postscript": "浏览器打开导入即可",
@@ -271,19 +292,6 @@
                     "postscript": "czy编写",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E7%99%BE%E5%AE%9D%E8%A2%8B/bbd.png",
                     "appDownloadUrl": ""
-                }
-            ]
-        },
-        {
-            "itemName": "小说漫画",
-            "itemContents": [
-                {
-                    "appName": "阅读",
-                    "appVersion": "V3.23.062623",
-                    "packageName": "io.legado.app.release",
-                    "postscript": "小说漫画都可以看",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/阅读/38.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/legado_app_3.23.062623.apk"
                 }
             ]
         }
