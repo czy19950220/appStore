@@ -178,6 +178,30 @@
                     "postscript": "听书软件",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E6%88%91%E7%9A%84%E5%90%AC%E4%B9%A6/pw.png",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/eprendre/tingshu/releases/download/v2.3.7/tingshu_v2.3.7.apk"
+                },
+                {
+                    "appName": "咚咚听书",
+                    "appVersion": "2.3.7",
+                    "packageName": "com.github.eprendre.tingshu",
+                    "postscript": "听书软件",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E6%88%91%E7%9A%84%E5%90%AC%E4%B9%A6/pw.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/dongdong.apk"
+                },
+                {
+                    "appName": "鲨鱼听书",
+                    "appVersion": "2.3.7",
+                    "packageName": "com.github.eprendre.tingshu",
+                    "postscript": "听书软件",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E6%88%91%E7%9A%84%E5%90%AC%E4%B9%A6/pw.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/shayu.apk"
+                },
+                {
+                    "appName": "柠檬听书",
+                    "appVersion": "2.3.7",
+                    "packageName": "com.github.eprendre.tingshu",
+                    "postscript": "听书软件",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E6%88%91%E7%9A%84%E5%90%AC%E4%B9%A6/pw.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/ning_meng_1.2.apk"
                 }
             ]
         },
