@@ -120,7 +120,7 @@
                 },
                 {
                     "appName": "FongMi",
-                    "appVersion": "2.0.1",
+                    "appVersion": "V2.0.1",
                     "packageName": "com.fongmi.android.tv",
                     "postscript": "20230704更新",
                     "appBG": "https://ghproxy.com/https://github.com/FongMi/TV/blob/release/app/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true",
@@ -149,7 +149,7 @@
                 },
                 {
                     "appName": "歌词适配",
-                    "appVersion": "4.1.0.V4",
+                    "appVersion": "V4.1.0.V4",
                     "packageName": "com.mylrc.mymusic",
                     "postscript": "公众号:gcsp1999",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E6%AD%8C%E8%AF%8D%E9%80%82%E9%85%8D/ht.png",
@@ -157,7 +157,7 @@
                 },
                 {
                     "appName": "云听音乐",
-                    "appVersion": "1.0",
+                    "appVersion": "V1.0",
                     "packageName": "com.cyl.musiccy.cm",
                     "postscript": "多平台免费听音乐",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E4%BA%91%E5%90%AC%E9%9F%B3%E4%B9%90/icon.png",
@@ -165,7 +165,7 @@
                 },
                 {
                     "appName": "MusicFree",
-                    "appVersion": "0.1.0-alpha.9",
+                    "appVersion": "V0.1.0-alpha.9",
                     "packageName": "fun.upup.musicfree",
                     "postscript": "多平台免费听音乐",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/maotoumao/MusicFree/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
@@ -173,7 +173,7 @@
                 },
                 {
                     "appName": "酷我车机",
-                    "appVersion": "5.0.0.7",
+                    "appVersion": "V5.0.0.7",
                     "packageName": "cn.kuwo.kwmusiccas",
                     "postscript": "破解版酷我车机",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E9%85%B7%E6%88%91%E8%BD%A6%E6%9C%BA/app_logo.png",
@@ -189,7 +189,7 @@
                 },
                 {
                     "appName": "咚咚听书",
-                    "appVersion": "1.0.1",
+                    "appVersion": "V1.0.1",
                     "packageName": "com.westtechgg.movie",
                     "postscript": "听书软件",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E5%92%9A%E5%92%9A%E5%90%AC%E4%B9%A6/ic_launcher.png",
@@ -226,11 +226,19 @@
                 },
                 {
                     "appName": "锤子小说",
-                    "appVersion": "2.1.7",
+                    "appVersion": "V2.1.7",
                     "packageName": "org.chuizixs.reader",
                     "postscript": "免费小说，多源",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/锤子/cN.png",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/chui_zi.apk"
+                },
+                {
+                    "appName": "喵上漫画",
+                    "appVersion": "V1.10.3",
+                    "packageName": "com.aster.zhbj",
+                    "postscript": "看三次广告全天免费",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/喵上漫画/5Q.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/miao_shang.apk"
                 }
             ]
         },
