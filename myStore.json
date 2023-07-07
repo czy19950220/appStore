@@ -125,6 +125,22 @@
                     "postscript": "20230704更新",
                     "appBG": "https://ghproxy.com/https://github.com/FongMi/TV/blob/release/app/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/FongMi/TV/releases/download/2.0.1/leanback-4.1.apk"
+                },
+                {
+                    "appName": "梨园戏TV",
+                    "appVersion": "V9.1.0.0",
+                    "packageName": "com.iptv.liyuanhang_ott",
+                    "postscript": "看戏",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/戏曲/梨园戏/logo.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/li_yuan_xi_TV.apk"
+                },
+                {
+                    "appName": "戏曲多多",
+                    "appVersion": "V1.0.4.0",
+                    "packageName": "com.duoduo.opreatv",
+                    "postscript": "看戏",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/戏曲/戏曲多多/logo.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/xi_qu_duo_duo.apk"
                 }
             ]
         },
