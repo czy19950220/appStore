@@ -257,12 +257,20 @@
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/miao_shang.apk"
                 },
                 {
-                    "appName": "喵上漫画",
-                    "appVersion": "V1.10.3",
-                    "packageName": "com.aster.zhbj",
-                    "postscript": "看三次广告全天免费",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/喵上漫画/5Q.png",
+                    "appName": "云漫",
+                    "appVersion": "V2.5.4",
+                    "packageName": "com.mansou.cimoc.ym",
+                    "postscript": "内置上百条免费源",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/%E4%BA%91%E6%BC%AB/logo.png",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/yun_man_2.5.4.apk"
+                },
+                {
+                    "appName": "飞鱼阅读",
+                    "appVersion": "V23.06.21",
+                    "packageName": "com.feiyyd.app",
+                    "postscript": "改编自开源阅读",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/%E4%BA%91%E6%BC%AB/logo.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/fei_yu_23.06.21.apk"
                 }
             ]
         },
