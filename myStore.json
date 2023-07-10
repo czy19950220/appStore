@@ -255,6 +255,14 @@
                     "postscript": "看三次广告全天免费",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/喵上漫画/5Q.png",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/miao_shang.apk"
+                },
+                {
+                    "appName": "喵上漫画",
+                    "appVersion": "V1.10.3",
+                    "packageName": "com.aster.zhbj",
+                    "postscript": "看三次广告全天免费",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/喵上漫画/5Q.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/yun_man_2.5.4.apk"
                 }
             ]
         },
