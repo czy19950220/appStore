@@ -157,11 +157,11 @@
                 },
                 {
                     "appName": "五音助手(用户名和密码都是：18888888888)",
-                    "appVersion": "V2.10.4",
+                    "appVersion": "V2.10.5",
                     "packageName": "com.sixyin.wuyin_app",
                     "postscript": "官网：https://sixyin.com/",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E4%BA%94%E9%9F%B3%E5%8A%A9%E6%89%8B/logo.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/wu_yin_v2.10.4.apk"
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/wu_yin.apk"
                 },
                 {
                     "appName": "歌词适配",
