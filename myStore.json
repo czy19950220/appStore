@@ -1,7 +1,7 @@
 {
     "storeName": "我的百宝袋",
     "messageBoard": "本软件更新了，修改了版本对比文字",
-    "version": "内容更新于：2023-07-10",
+    "version": "内容更新于：2023-07-11",
     "appItems": [
         {
             "itemName": "电视应用",
@@ -34,9 +34,9 @@
                     "appName": "影视仓",
                     "appVersion": "V5.0.2",
                     "packageName": "com.mygithub0.tvbox0.osdX",
-                    "postscript": "数据库更新，安装后需重新配置",
+                    "postscript": "如果你是从4x版本直接升级到5.0.3，卸载重装！！！",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%BD%B1%E8%A7%86%E4%BB%93/app_icon.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/YingShiCang_5.0.2.apk"
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/YingShiCang_5.0.3.apk"
                 },
                 {
                     "appName": "影视仓",
@@ -53,6 +53,14 @@
                     "postscript": "兼容安卓4",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%BD%B1%E8%A7%86%E4%BB%93/app_icon.png",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/YingShiCangV3-3.0.32.apk"
+                },
+                {
+                    "appName": "影视仓手机版",
+                    "appVersion": "V1.0.6",
+                    "packageName": "com.movie.store",
+                    "postscript": "竖版手机版，如果你是从1.0.4版本直接升级1.0.6，卸载重装！！！！",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%BD%B1%E8%A7%86%E4%BB%93/app_icon_mobile.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/YingShiCang_phone_1.0.6.apk"
                 },
                 {
                     "appName": "宝盒",
