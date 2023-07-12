@@ -31,6 +31,22 @@
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/DianShiJia-3.10.23.apk"
                 },
                 {
+                    "appName": "影视",
+                    "appVersion": "V20230711#4",
+                    "packageName": "com.fongmi.android.tv",
+                    "postscript": "影视手机版，支持荐片，长按版本号升级",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/影视/jy.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/ying_shi.apk"
+                },
+                {
+                    "appName": "影视",
+                    "appVersion": "V20230711#4",
+                    "packageName": "com.fongmi.android.tv",
+                    "postscript": "影视手机版，支持荐片，长按版本号升级",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/影视/jy.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/ying_shi_TV.apk"
+                },
+                {
                     "appName": "影视仓",
                     "appVersion": "V5.0.3",
                     "packageName": "com.mygithub0.tvbox0.osdX",
