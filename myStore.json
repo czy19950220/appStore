@@ -39,7 +39,7 @@
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/ying_shi.apk"
                 },
                 {
-                    "appName": "影视",
+                    "appName": "影视TV版(包名相同)",
                     "appVersion": "V20230711#4",
                     "packageName": "com.fongmi.android.tv",
                     "postscript": "影视手机版，支持荐片，长按版本号升级",
