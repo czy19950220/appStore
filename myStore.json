@@ -144,11 +144,11 @@
                 },
                 {
                     "appName": "FongMi",
-                    "appVersion": "V2.0.1",
+                    "appVersion": "V2.0.2",
                     "packageName": "com.fongmi.android.tv",
-                    "postscript": "20230704更新",
+                    "postscript": "修复了一些bug",
                     "appBG": "https://ghproxy.com/https://github.com/FongMi/TV/blob/release/app/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/FongMi/TV/releases/download/2.0.1/leanback-4.1.apk"
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/FongMi/TV/releases/download/2.0.2/leanback-4.1.apk"
                 },
                 {
                     "appName": "梨园戏TV",
