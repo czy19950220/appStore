@@ -32,7 +32,7 @@
                 },
                 {
                     "appName": "影视",
-                    "appVersion": "V20230711#4",
+                    "appVersion": "V20230712#2",
                     "packageName": "com.fongmi.android.tv",
                     "postscript": "影视手机版，支持荐片，长按版本号升级",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/影视/jy.png",
@@ -40,7 +40,7 @@
                 },
                 {
                     "appName": "影视TV版(包名相同)",
-                    "appVersion": "V20230711#4",
+                    "appVersion": "V20230712#2",
                     "packageName": "com.fongmi.android.tv",
                     "postscript": "影视手机版，支持荐片，长按版本号升级",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/影视/jy.png",
