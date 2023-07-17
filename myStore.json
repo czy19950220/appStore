@@ -4,7 +4,7 @@
     "version": "内容更新于：2023-07-11",
     "appItems": [
         {
-            "itemName": "电视应用",
+            "itemName": "影视应用",
             "itemContents": [
                 {
                     "appName": "百宝袋",
@@ -96,11 +96,11 @@
                 },
                 {
                     "appName": "可视TVMax",
-                    "appVersion": "V1.6.5",
+                    "appVersion": "V1.6.7",
                     "packageName": "com.github.tvbox.keshimax",
                     "postscript": "支持多仓",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%8F%AF%E8%A7%86TVMax/app_icon.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/TVMax_1.6.5.20230610.apk"
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/TVMax_1.6.7.20230711.apk"
                 },
                 {
                     "appName": "小鸡模拟器TV版",
@@ -165,6 +165,22 @@
                     "postscript": "看戏",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/戏曲/戏曲多多/logo.png",
                     "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/xi_qu_duo_duo.apk"
+                },
+                {
+                    "appName": "EasyBox",
+                    "appVersion": "V1.1.2",
+                    "packageName": "pro.easybox.open",
+                    "postscript": "竖版手机版，支持多仓",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/easybox/logo.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/easybox_112_230619_sign.apk"
+                },
+                {
+                    "appName": "影迷",
+                    "appVersion": "V1.7.1",
+                    "packageName": "com.qingsong.yingmi",
+                    "postscript": "竖版手机版，支持多仓",
+                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/影迷/5b.png",
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/ying_mi_1.7.1.apk"
                 }
             ]
         },
@@ -181,11 +197,11 @@
                 },
                 {
                     "appName": "五音助手(用户名和密码都是：18888888888)",
-                    "appVersion": "V2.10.5",
+                    "appVersion": "V2.10.6",
                     "packageName": "com.sixyin.wuyin_app",
-                    "postscript": "官网：https://sixyin.com/",
+                    "postscript": "官网：https://sixyin.com/,修复了音源",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E4%BA%94%E9%9F%B3%E5%8A%A9%E6%89%8B/logo.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/wu_yin.apk"
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/wu_yin_v2.10.6.apk"
                 },
                 {
                     "appName": "歌词适配",
