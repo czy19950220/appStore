@@ -176,11 +176,11 @@
                 },
                 {
                     "appName": "影迷",
-                    "appVersion": "V1.7.1",
+                    "appVersion": "V1.8.1",
                     "packageName": "com.qingsong.yingmi",
                     "postscript": "竖版手机版，支持多仓",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/影迷/5b.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/ying_mi_1.7.1.apk"
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/ying_mi_1.8.1.apk"
                 }
             ]
         },
