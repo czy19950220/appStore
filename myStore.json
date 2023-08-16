@@ -96,11 +96,11 @@
                 },
                 {
                     "appName": "可视TVMax",
-                    "appVersion": "V1.6.7",
+                    "appVersion": "V1.6.8",
                     "packageName": "com.github.tvbox.keshimax",
                     "postscript": "支持多仓",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%8F%AF%E8%A7%86TVMax/app_icon.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/TVMax_1.6.7.20230711.apk"
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/TVMax_1.6.8.apk"
                 },
                 {
                     "appName": "小鸡模拟器TV版",
