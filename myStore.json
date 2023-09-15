@@ -1,7 +1,7 @@
 {
     "storeName": "我的百宝袋",
-    "messageBoard": "更新了影迷APP",
-    "version": "内容更新于：2023-09-08",
+    "messageBoard": "洛雪音乐更新",
+    "version": "内容更新于：2023-09-15",
     "appItems": [
         {
             "itemName": "影视应用",
@@ -197,11 +197,11 @@
             "itemContents": [
                 {
                     "appName": "洛雪音乐",
-                    "appVersion": "V1.0.6",
+                    "appVersion": "V1.1.0",
                     "packageName": "cn.toside.music.mobile",
-                    "postscript": "开源免费",
+                    "postscript": "开源免费，多条线路",
                     "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/lyswhut/lx-music-mobile/master/doc/images/icon.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/lyswhut/lx-music-mobile/releases/download/v1.0.6/lx-music-mobile-v1.0.6-universal.apk"
+                    "appDownloadUrl": "https://ghproxy.com/https://github.com/lyswhut/lx-music-mobile/releases/download/v1.1.0/lx-music-mobile-v1.1.0-universal.apk"
                 },
                 {
                     "appName": "五音助手(用户名和密码都是：18888888888)",
