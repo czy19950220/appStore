@@ -11,184 +11,184 @@
                     "appVersion": "V1.1.1",
                     "packageName": "com.github.tvbox.czyappstore",
                     "postscript": "修改了版本对比文字",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E7%99%BE%E5%AE%9D%E8%A2%8B/app_icon.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/app-release.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E7%99%BE%E5%AE%9D%E8%A2%8B/app_icon.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/app-release.apk"
                 },
                 {
                     "appName": "秒看电视",
                     "appVersion": "V7.5.2",
                     "packageName": "com.qy.kktv",
                     "postscript": "高清、免费",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E7%A7%92%E7%9C%8B%E7%94%B5%E8%A7%86/logo.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/MiaoKanDianShi-7.5.2.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E7%A7%92%E7%9C%8B%E7%94%B5%E8%A7%86/logo.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/MiaoKanDianShi-7.5.2.apk"
                 },
                 {
                     "appName": "电视家",
                     "appVersion": "V3.10.23",
                     "packageName": "com.dsj.pj",
                     "postscript": "绿色破解版",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E7%94%B5%E8%A7%86%E5%AE%B6/logo.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/DianShiJia-3.10.23.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E7%94%B5%E8%A7%86%E5%AE%B6/logo.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/DianShiJia-3.10.23.apk"
                 },
                 {
                     "appName": "影视",
                     "appVersion": "V20230712#2",
                     "packageName": "com.fongmi.android.tv",
                     "postscript": "影视手机版，支持荐片，长按版本号升级",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/影视/jy.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/ying_shi.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/影视/jy.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/ying_shi.apk"
                 },
                 {
                     "appName": "影视TV版(包名相同)",
                     "appVersion": "V20230712#2",
                     "packageName": "com.fongmi.android.tv",
                     "postscript": "影视手机版，支持荐片，长按版本号升级",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/影视/jy.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/ying_shi_TV.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/影视/jy.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/ying_shi_TV.apk"
                 },
                 {
                     "appName": "影视仓",
                     "appVersion": "V5.0.42",
                     "packageName": "com.mygithub0.tvbox0.osdX",
                     "postscript": "如果你是从4x版本直接升级到5.*.*，卸载重装！！！",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%BD%B1%E8%A7%86%E4%BB%93/app_icon.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/YingShiCangV5.0.4_2_opt.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%BD%B1%E8%A7%86%E4%BB%93/app_icon.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/YingShiCangV5.0.4_2_opt.apk"
                 },
                 {
                     "appName": "影视仓",
                     "appVersion": "V4.0.34",
                     "packageName": "com.mygithub0.tvbox0.osdX",
                     "postscript": "支持多仓",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%BD%B1%E8%A7%86%E4%BB%93/app_icon.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/YingShiCang-4.0.34.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%BD%B1%E8%A7%86%E4%BB%93/app_icon.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/YingShiCang-4.0.34.apk"
                 },
                 {
                     "appName": "影视仓V3",
                     "appVersion": "V3.0.35",
                     "packageName": "com.mygithub0.tvbox0.osdkitkat",
                     "postscript": "兼容安卓4",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%BD%B1%E8%A7%86%E4%BB%93/app_icon.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/YingShiCangV3_3.0.35_opt.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%BD%B1%E8%A7%86%E4%BB%93/app_icon.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/YingShiCangV3_3.0.35_opt.apk"
                 },
                 {
                     "appName": "影视仓手机版",
                     "appVersion": "V1.0.6",
                     "packageName": "com.movie.store",
                     "postscript": "竖版手机版，如果你是从1.0.4版本直接升级1.0.6，卸载重装！！！！",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%BD%B1%E8%A7%86%E4%BB%93/app_icon_mobile.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/YingShiCang_phone_1.0.6.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%BD%B1%E8%A7%86%E4%BB%93/app_icon_mobile.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/YingShiCang_phone_1.0.6.apk"
                 },
                 {
                     "appName": "宝盒",
                     "appVersion": "V3.0.9",
                     "packageName": "com.github.tvbox.osc.bh",
                     "postscript": "修改了一些bug，增加了一些功能",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%AE%9D%E7%9B%92/baohe.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/BaoHe_3.0.9.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%AE%9D%E7%9B%92/baohe.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/BaoHe_3.0.9.apk"
                 },
                 {
                     "appName": "宝盒",
                     "appVersion": "V1.1.1",
                     "packageName": "com.github.tvbox.osc.bh",
                     "postscript": "兼容安卓4",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%AE%9D%E7%9B%92/baohe.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/BaoHe-1.1.1-release-Android4.1.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%AE%9D%E7%9B%92/baohe.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/BaoHe-1.1.1-release-Android4.1.apk"
                 },
                 {
                     "appName": "可视TVMax",
                     "appVersion": "V1.6.8",
                     "packageName": "com.github.tvbox.keshimax",
                     "postscript": "支持多仓",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%8F%AF%E8%A7%86TVMax/app_icon.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/TVMax_1.6.8.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%8F%AF%E8%A7%86TVMax/app_icon.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/TVMax_1.6.8.apk"
                 },
                 {
                     "appName": "小鸡模拟器TV版",
                     "appVersion": "V1.1.8",
                     "packageName": "com.xiaoji.tvbox",
                     "postscript": "不能更新，更新不免费",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E9%B8%A1%E6%A8%A1%E6%8B%9F%E5%99%A8/ic_launcher_tv.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/xiao_ji_mo_ni_qi_TV.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E9%B8%A1%E6%A8%A1%E6%8B%9F%E5%99%A8/ic_launcher_tv.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/xiao_ji_mo_ni_qi_TV.apk"
                 },
                 {
                     "appName": "小鸡模拟器手柄",
                     "appVersion": "V1.1.0",
                     "packageName": "com.xiaoji.gamepad",
                     "postscript": "模拟手柄，能用但是没手柄好使",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E9%B8%A1%E6%A8%A1%E6%8B%9F%E5%99%A8/ic_launcher.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/xiao_ji_mo_ni_qi_shou_bing.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E9%B8%A1%E6%A8%A1%E6%8B%9F%E5%99%A8/ic_launcher.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/xiao_ji_mo_ni_qi_shou_bing.apk"
                 },
                 {
                     "appName": "调试助手",
                     "appVersion": "V2.4.2",
                     "packageName": "com.tiaoshizstv.tszs",
                     "postscript": "",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E8%B0%83%E8%AF%95%E5%8A%A9%E6%89%8B/nm.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/tiao_shi_zhu_shou_2.4.2.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E8%B0%83%E8%AF%95%E5%8A%A9%E6%89%8B/nm.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/tiao_shi_zhu_shou_2.4.2.apk"
                 },
                 {
                     "appName": "TVBox_takagen99",
                     "appVersion": "V1.0.20230608_0031",
                     "packageName": "com.github.tvbox.osc.tk",
                     "postscript": "增加了去广告",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/TVBox/takagen99/vx.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/TVBox_takagen99_20230608-0023.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/TVBox/takagen99/vx.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/TVBox_takagen99_20230608-0023.apk"
                 },
                 {
                     "appName": "TVBox_俊版",
                     "appVersion": "V20230601-1755",
                     "packageName": "com.github.tvbox.osc",
                     "postscript": "增加了去广告",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/TVBox/%E4%BF%8A%E7%89%88/53.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/TVBox_Jun_Ban_20230601-1755.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/TVBox/%E4%BF%8A%E7%89%88/53.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/TVBox_Jun_Ban_20230601-1755.apk"
                 },
                 {
                     "appName": "FongMi",
                     "appVersion": "V2.0.2",
                     "packageName": "com.fongmi.android.tv",
                     "postscript": "修复了一些bug",
-                    "appBG": "https://ghproxy.com/https://github.com/FongMi/TV/blob/release/app/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/FongMi/TV/releases/download/2.0.2/leanback-4.1.apk"
+                    "appBG": "https://ghproxy.net/https://github.com/FongMi/TV/blob/release/app/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/FongMi/TV/releases/download/2.0.2/leanback-4.1.apk"
                 },
                 {
                     "appName": "梨园戏TV",
                     "appVersion": "V9.1.0.0",
                     "packageName": "com.iptv.liyuanhang_ott",
                     "postscript": "看戏",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/戏曲/梨园戏/logo.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/li_yuan_xi_TV.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/戏曲/梨园戏/logo.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/li_yuan_xi_TV.apk"
                 },
                 {
                     "appName": "戏曲多多",
                     "appVersion": "V1.0.4.0",
                     "packageName": "com.duoduo.opreatv",
                     "postscript": "看戏",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/戏曲/戏曲多多/logo.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/xi_qu_duo_duo.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/戏曲/戏曲多多/logo.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/xi_qu_duo_duo.apk"
                 },
                 {
                     "appName": "EasyBox",
                     "appVersion": "V1.2.3",
                     "packageName": "pro.easybox.open",
                     "postscript": "竖版手机版，支持多仓",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/easybox/logo.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/easybox_123_230725_sign.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/easybox/logo.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/easybox_123_230725_sign.apk"
                 },
                 {
                     "appName": "影迷",
                     "appVersion": "V2.3.1",
                     "packageName": "com.qingsong.yingmi",
                     "postscript": "竖版手机版，支持多仓",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/影迷/5b.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/YingMi2_2.3.1.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/影迷/5b.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/YingMi2_2.3.1.apk"
                 },
                 {
                     "appName": "影迷（内置源）",
                     "appVersion": "V2.3.1",
                     "packageName": "com.qingsong.yingmi",
                     "postscript": "竖版手机版，支持多仓",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/影迷/5b.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/YingMi_2.3.1.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/影迷/5b.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E5%BD%B1%E8%A7%86/YingMi_2.3.1.apk"
                 }
             ]
         },
@@ -200,80 +200,80 @@
                     "appVersion": "V1.1.0",
                     "packageName": "cn.toside.music.mobile",
                     "postscript": "开源免费，多条线路",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/lyswhut/lx-music-mobile/master/doc/images/icon.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/lyswhut/lx-music-mobile/releases/download/v1.1.0/lx-music-mobile-v1.1.0-universal.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/lyswhut/lx-music-mobile/master/doc/images/icon.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/lyswhut/lx-music-mobile/releases/download/v1.1.0/lx-music-mobile-v1.1.0-universal.apk"
                 },
                 {
                     "appName": "五音助手(用户名和密码都是：18888888888)",
                     "appVersion": "V2.10.6",
                     "packageName": "com.sixyin.wuyin_app",
                     "postscript": "官网：https://sixyin.com/,修复了音源",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E4%BA%94%E9%9F%B3%E5%8A%A9%E6%89%8B/logo.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/wu_yin_v2.10.6.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E4%BA%94%E9%9F%B3%E5%8A%A9%E6%89%8B/logo.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/wu_yin_v2.10.6.apk"
                 },
                 {
                     "appName": "歌词适配",
                     "appVersion": "V4.1.0.V4",
                     "packageName": "com.mylrc.mymusic",
                     "postscript": "公众号:gcsp1999",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E6%AD%8C%E8%AF%8D%E9%80%82%E9%85%8D/ht.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/ge_ci_shi_pei_4.1.0.V4.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E6%AD%8C%E8%AF%8D%E9%80%82%E9%85%8D/ht.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/ge_ci_shi_pei_4.1.0.V4.apk"
                 },
                 {
                     "appName": "云听音乐",
                     "appVersion": "V1.0",
                     "packageName": "com.cyl.musiccy.cm",
                     "postscript": "多平台免费听音乐",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E4%BA%91%E5%90%AC%E9%9F%B3%E4%B9%90/icon.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/yun_ting_music_1.0.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E4%BA%91%E5%90%AC%E9%9F%B3%E4%B9%90/icon.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/yun_ting_music_1.0.apk"
                 },
                 {
                     "appName": "MusicFree",
                     "appVersion": "V0.1.0-alpha.9",
                     "packageName": "fun.upup.musicfree",
                     "postscript": "多平台免费听音乐",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/maotoumao/MusicFree/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/MusicFree.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/maotoumao/MusicFree/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/MusicFree.apk"
                 },
                 {
                     "appName": "酷我车机",
                     "appVersion": "V5.0.0.7",
                     "packageName": "cn.kuwo.kwmusiccas",
                     "postscript": "破解版酷我车机",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E9%85%B7%E6%88%91%E8%BD%A6%E6%9C%BA/app_logo.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/MusicFree.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E9%85%B7%E6%88%91%E8%BD%A6%E6%9C%BA/app_logo.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/MusicFree.apk"
                 },
                 {
                     "appName": "我的听书",
                     "appVersion": "2.3.7",
                     "packageName": "com.github.eprendre.tingshu",
                     "postscript": "听书软件",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E6%88%91%E7%9A%84%E5%90%AC%E4%B9%A6/pw.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/eprendre/tingshu/releases/download/v2.3.7/tingshu_v2.3.7.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E6%88%91%E7%9A%84%E5%90%AC%E4%B9%A6/pw.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/eprendre/tingshu/releases/download/v2.3.7/tingshu_v2.3.7.apk"
                 },
                 {
                     "appName": "咚咚听书",
                     "appVersion": "V1.0.1",
                     "packageName": "com.westtechgg.movie",
                     "postscript": "听书软件",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E5%92%9A%E5%92%9A%E5%90%AC%E4%B9%A6/ic_launcher.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/kuwo5.0.7.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E5%92%9A%E5%92%9A%E5%90%AC%E4%B9%A6/ic_launcher.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/kuwo5.0.7.apk"
                 },
                 {
                     "appName": "鲨鱼听书",
                     "appVersion": "0.3.6",
                     "packageName": "com.example.dodoting_native",
                     "postscript": "听书软件",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E9%B2%A8%E9%B1%BC%E5%90%AC%E4%B9%A6/launcher_icon.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/shayu.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E9%B2%A8%E9%B1%BC%E5%90%AC%E4%B9%A6/launcher_icon.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/shayu.apk"
                 },
                 {
                     "appName": "柠檬听书",
                     "appVersion": "1.2",
                     "packageName": "com.yinyue.tingshu",
                     "postscript": "听书软件",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E6%9F%A0%E6%AA%AC%E5%90%AC%E4%B9%A6/icon.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/ning_meng_1.2.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E6%9F%A0%E6%AA%AC%E5%90%AC%E4%B9%A6/icon.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E9%9F%B3%E4%B9%90/ning_meng_1.2.apk"
                 }
             ]
         },
@@ -285,40 +285,40 @@
                     "appVersion": "V3.23.062623",
                     "packageName": "io.legado.app.release",
                     "postscript": "小说漫画都可以看，可以自己导入源",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/阅读/38.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/legado_app_3.23.062623.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/阅读/38.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/legado_app_3.23.062623.apk"
                 },
                 {
                     "appName": "锤子小说",
                     "appVersion": "V2.1.7",
                     "packageName": "org.chuizixs.reader",
                     "postscript": "免费小说，多源",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/锤子/cN.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/chui_zi.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/锤子/cN.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/chui_zi.apk"
                 },
                 {
                     "appName": "喵上漫画",
                     "appVersion": "V1.10.3",
                     "packageName": "com.aster.zhbj",
                     "postscript": "看三次广告全天免费",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/喵上漫画/5Q.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/miao_shang.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/喵上漫画/5Q.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/miao_shang.apk"
                 },
                 {
                     "appName": "云漫",
                     "appVersion": "V2.5.4",
                     "packageName": "com.mansou.cimoc.ym",
                     "postscript": "内置上百条免费源",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/%E4%BA%91%E6%BC%AB/logo.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/yun_man_2.5.4.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/%E4%BA%91%E6%BC%AB/logo.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/yun_man_2.5.4.apk"
                 },
                 {
                     "appName": "飞鱼阅读",
                     "appVersion": "V23.06.21",
                     "packageName": "com.feiyyd.app",
                     "postscript": "改编自开源阅读",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/%E9%A3%9E%E9%B1%BC%E9%98%85%E8%AF%BB/m6.png",
-                    "appDownloadUrl": "https://ghproxy.com/https://github.com/czy19950220/appStore/releases/download/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/fei_yu_23.06.21.apk"
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/%E9%A3%9E%E9%B1%BC%E9%98%85%E8%AF%BB/m6.png",
+                    "appDownloadUrl": "https://ghproxy.net/https://github.com/czy19950220/appStore/releases/download/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/fei_yu_23.06.21.apk"
                 }
             ]
         },
@@ -330,7 +330,7 @@
                     "appVersion": "V1.0.0",
                     "packageName": "单仓教程",
                     "postscript": "单仓教程",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E7%99%BE%E5%AE%9D%E8%A2%8B/tvbox-tutorial.png",
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E7%99%BE%E5%AE%9D%E8%A2%8B/tvbox-tutorial.png",
                     "appDownloadUrl": ""
                 },
                 {
@@ -338,7 +338,7 @@
                     "appVersion": "V1.0.0",
                     "packageName": "扫码获取源",
                     "postscript": "czy收集",
-                    "appBG": "https://ghproxy.com/https://github.com/czy19950220/appStore/blob/main/%E7%99%BE%E5%AE%9D%E8%A2%8B/yuan/cyuan.png",
+                    "appBG": "https://ghproxy.net/https://github.com/czy19950220/appStore/blob/main/%E7%99%BE%E5%AE%9D%E8%A2%8B/yuan/cyuan.png",
                     "appDownloadUrl": ""
                 },
                 {
@@ -346,7 +346,7 @@
                     "appVersion": "V1.0.0",
                     "packageName": "扫码获取源2",
                     "postscript": "lige收集",
-                    "appBG": "https://ghproxy.com/https://github.com/czy19950220/appStore/blob/main/%E7%99%BE%E5%AE%9D%E8%A2%8B/yuan/lige.png",
+                    "appBG": "https://ghproxy.net/https://github.com/czy19950220/appStore/blob/main/%E7%99%BE%E5%AE%9D%E8%A2%8B/yuan/lige.png",
                     "appDownloadUrl": ""
                 },
                 {
@@ -354,7 +354,7 @@
                     "appVersion": "V1.0.0",
                     "packageName": "扫码打开文章",
                     "postscript": "czy编写，直接照抄的官方文档",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/MusicFree/qrcode.png",
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/MusicFree/qrcode.png",
                     "appDownloadUrl": ""
                 },
                 {
@@ -362,7 +362,7 @@
                     "appVersion": "V1.0.0",
                     "packageName": "扫码打开文章",
                     "postscript": "czy编写，直接照抄的官方文档",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E6%88%91%E7%9A%84%E5%90%AC%E4%B9%A6/qrcode.png",
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E9%9F%B3%E4%B9%90/%E6%88%91%E7%9A%84%E5%90%AC%E4%B9%A6/qrcode.png",
                     "appDownloadUrl": ""
                 },
                 {
@@ -370,7 +370,7 @@
                     "appVersion": "V1.0.0",
                     "packageName": "请用浏览器扫码打开",
                     "postscript": "浏览器打开导入即可",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/阅读/qrcode.png",
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E5%B0%8F%E8%AF%B4%E6%BC%AB%E7%94%BB/阅读/qrcode.png",
                     "appDownloadUrl": ""
                 },
                 {
@@ -378,7 +378,7 @@
                     "appVersion": "V1.0.0",
                     "packageName": "扫码打开分享文章",
                     "postscript": "czy编写",
-                    "appBG": "https://ghproxy.com/https://raw.githubusercontent.com/czy19950220/appStore/main/%E7%99%BE%E5%AE%9D%E8%A2%8B/bbd.png",
+                    "appBG": "https://ghproxy.net/https://raw.githubusercontent.com/czy19950220/appStore/main/%E7%99%BE%E5%AE%9D%E8%A2%8B/bbd.png",
                     "appDownloadUrl": ""
                 }
             ]
